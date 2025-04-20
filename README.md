@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={hayase-m}&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
   <a href="https://github.com/hayase-m">
