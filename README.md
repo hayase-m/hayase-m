@@ -7,7 +7,7 @@
   <a href="https://github.com/hayase-m">
     <img height="20" src="https://img.shields.io/github/followers/hayase-m?label=follow&logo=github&style=flat" />
   </a>
- <a href="http://qiita.com/hayase-m">
+ <!-- <a href="http://qiita.com/hayase-m">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hayase-m/posts.svg" />
   </a>
   <a href="http://qiita.com/hayase-m">
@@ -15,8 +15,9 @@
   </a>
   <a href="https://zenn.dev/hayase-m">
     <img height="20" src="https://badgen.org/img/zenn/hayase-m/articles?style=plastic" />
-  </a>
+  </a> -->
 </p>
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayase-m&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayase-m&theme=gruvbox)
