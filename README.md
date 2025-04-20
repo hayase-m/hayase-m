@@ -28,8 +28,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayase-m&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayase-m&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hayase-m&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayase-m&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hayase-m&theme=gruvbox&utcOffset=9)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayase-m&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hayase-m&theme=gruvbox&utcOffset=9)-->
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hayase-m&theme=gruvbox)
