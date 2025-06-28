@@ -21,7 +21,8 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayase-m&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![github-readme-stats](https://hayase-status-874q.vercel.app/api/?username=hayase-m)
+
 ## Stats
 ![](https://raw.githubusercontent.com/hayase-m/hayase-m/output/github-contribution-grid-snake.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayase-m&theme=gruvbox)
