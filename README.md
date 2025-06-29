@@ -45,8 +45,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> 
 </p>
 
+<!--
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hayase-m&theme=gruvbox)
+-->
 
 <!--
 **hayase-m/hayase-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
